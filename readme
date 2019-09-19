@@ -1,0 +1,27 @@
+My name is Ankush Singh <ankushsngh212@gmail.com>
+
+To run the program, go to the directory of the source code run.py and enter
+$python run.py (or python2 run.py) (or python3 run.py)
+
+
+The program supports all versions of python!
+
+
+The program will itself ask for Bus Number whose live tracking you want to do !
+
+
+<A glimpse of what is displayed is> 
+ Welcome !! This is a command-line application! You can request Bus Tracking Information as many times as you want. 
+ Request to server is sent every 20 seconds 
+
+ 
+
+Instructions: 
+ 1. The Bus live GPS information will be provided if you enter the correct bus number [Valid Bus numbers lie between 1 and 40] 
+ 2. To exit the application, type 0 and press ENTER. 
+
+
+Enter Bus Number:
+
+
+You can type the Bus Number and you will see the tracking information
